@@ -48,6 +48,9 @@ body{
     margin-left: 20px;
     text-decoration: none;
 }
+.cocial-link .center {
+    margin: 0 5px;
+}
 .ganre{
     font-size: 14px;
     line-height: 16px;
@@ -59,11 +62,13 @@ body{
     align-items: center;
     margin-bottom: 10px;    
 }
-.raiting-number{
+.rating-number{
     font-size: 12px;
     line-height: 14px;
-    margin-left: 9px;
+    margin-top: 10px;
+    
 }
+
 .main-title{
     font-family: "MasonChronicles", serif;
     font-size: 76px;
